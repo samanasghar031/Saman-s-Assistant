@@ -1,0 +1,10 @@
+beautifulsoup4
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-genai
+pypdf
+python-docx
+python-dotenv
+requests
+

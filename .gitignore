@@ -1,0 +1,43 @@
+# Secrets and local authentication
+.env
+credentials.json
+token.json
+client_secret*.json
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Applicant documents and personal data
+Master_CV.docx
+applicant_contact.json
+student_profile.txt
+paper_notes.txt
+student_research_evidence.json
+student_research_evidence_review.txt
+student_documents/
+
+# Generated professor and application records
+application_tracker.csv
+professor_candidates.csv
+recruitment_leads.csv
+recruitment_search_report.txt
+ranked_professors.txt
+verified_professor.json
+verified_professor.txt
+email_draft.json
+email_draft.txt
+tailored_cvs/
+
+# Generated archives
+search_archive/
+verification_archive/
+email_archive/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
