@@ -50,3 +50,11 @@ Follow the stages in order:
 - Generated CVs and emails require human review.
 - Each user must supply their own documents, API key, and OAuth configuration.
 
+## Copyright and Usage
+
+Copyright © 2026 Saman Asghar. All rights reserved.
+
+This repository is publicly available for portfolio, academic evaluation,
+and demonstration purposes only. No permission is granted to copy, modify,
+redistribute, publish, sell, or incorporate this software into another
+project without prior written permission from the author.
