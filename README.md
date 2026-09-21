@@ -4,7 +4,7 @@ A Windows-oriented Python desktop application for evidence-based PhD opportunity
 
 The application does not send email automatically. It creates an unsent Gmail draft only after the user reviews the content and confirms the verified institutional address.
 
-## Privacy and security
+## Privacy and security 
 
 This repository intentionally excludes API keys, OAuth credentials, OAuth tokens, CVs, contact details, research documents, candidate records, generated drafts, and verification archives. Never commit those files. The included `.gitignore` protects the expected local filenames, but always inspect staged changes before pushing.
 
